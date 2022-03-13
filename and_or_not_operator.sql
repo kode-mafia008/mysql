@@ -1,0 +1,1 @@
+select * from personal WHERE  gender="F" and age=30;
